@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ハイドレンジア - LonePi feat.歌愛ユキ",
+  "base_track": "ハイドレンジア",
   "base_artist": "LonePi",
-  "createdAt": "2025-12-02T12:45:04.392753Z",
+  "createdAt": "2026-03-21T15:39:21.586564Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,6 +51,15 @@
       "artist": "LonePi",
       "has_synced": false,
       "path": "select/pl_01_ハイドレンジア_LonePi.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ハイドレンジア",
+      "artist": "LonePi",
+      "has_synced": true,
+      "path": "select/localdb_01_ハイドレンジア_LonePi.lrc",
+      "repo_name": "65pJPhP1wzw"
     }
   ]
 }
